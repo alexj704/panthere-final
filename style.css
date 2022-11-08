@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: rgba(255, 255, 255, .9);
 }
 
 .d-bloc .a-btn:hover,
@@ -735,8 +735,12 @@ h4 {
     margin-top: 24px;
 }
 
+.black {
+    color:#000000!important;
+}
+
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -774,8 +778,12 @@ h4 {
     background-color: #F3976C;
 }
 
+.tc-black{
+    color: #000000!important;
+}
+
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
