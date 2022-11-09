@@ -842,6 +842,11 @@ h4 {
     font-size: 20px;
 }
 
+.img-responsive {
+    width: 270px;
+    height: 270px;
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
