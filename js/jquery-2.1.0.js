@@ -15,7 +15,7 @@
         k = "".trim,
         l = {},
         m = a.document,
-        n = "2.1.0",
+        n = "3.6.1",
         o = function(a, b) {
             return new o.fn.init(a, b)
         },
